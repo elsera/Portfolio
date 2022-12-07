@@ -23,6 +23,7 @@ Hello. My name is Elvira. I have been passionate about IT since university. I ha
 # Tech skills
   - HTML/CSS
   - SQL
+  - Python
   - DevTools
   - SCRUM
   - Software testing
